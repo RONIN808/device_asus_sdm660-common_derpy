@@ -131,6 +131,11 @@ persist.data.iwlan.enable=true
 persist.vendor.data.iwlan.enable=true
 ro.telephony.iwlan_operation_mode=legacy
 
+# IORap
+ro.iorapd.enable=true
+iorapd.perfetto.enable=true
+iorapd.readahead.enable=true
+
 # NTP Server
 persist.backup.ntpServer=0.pool.ntp.org
 
