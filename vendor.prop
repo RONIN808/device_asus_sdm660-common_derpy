@@ -94,6 +94,9 @@ persist.vendor.camera.HAL3.enabled=1
 debug.stagefright.omx_default_rank.sw-audio=1
 debug.stagefright.omx_default_rank=0
 
+# Dalvik dex2oat
+dalvik.vm.dex2oat64.enabled=true
+
 # Display
 debug.sf.enable_hwc_vds=1
 debug.sf.hw=1
