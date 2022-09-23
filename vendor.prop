@@ -100,6 +100,8 @@ dalvik.vm.dex2oat64.enabled=true
 # Display
 debug.sf.hw=1
 debug.sf.disable_client_composition_cache=1
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
 persist.hwc.mdpcomp.enable=true
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
